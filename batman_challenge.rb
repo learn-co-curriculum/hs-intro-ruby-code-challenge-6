@@ -33,7 +33,6 @@ class Gotham
     # Write out code to create a hash with key value pairs for each villain and their weapon of choice
     # Do this by iterating over the @villains array and asking for input on what each villain's weapon should be
     # Your last line of code should return your completed hash 
-
   end
 end
 
