@@ -1,9 +1,4 @@
----
-  tags: classes, arrays, hashes, kids, ruby  
-  languages: ruby
-  level: 2
-  type: code challenge
----
+
 
 ## Save Gotham!
 
