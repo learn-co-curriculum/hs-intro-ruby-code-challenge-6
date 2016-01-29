@@ -6,4 +6,4 @@
 
 The fate of the Gotham lies in the balance! Fork and clone this lab and make the tests pass to help Batman save the city.
 
-<a href='https://learn.co/lessons/hs-intro-ruby-code-challenge-6' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-ruby-code-challenge-6' title='Save Gotham!'>Save Gotham!</a> on Learn.co and start learning to code for free.</p>
